@@ -3,7 +3,7 @@
 ---
 * A script that prints “Hello, World”, followed by a new line to the standard output.
 
-1-confused_smiley
+[1-confused_smiley](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x02-shell_redirections/1-confused_smiley)
 ---
 * A script that displays a confused smiley "(Ôo)'
 
