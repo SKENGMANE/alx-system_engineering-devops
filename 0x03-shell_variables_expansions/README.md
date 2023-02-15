@@ -14,7 +14,7 @@ A directory that contains scripts about Shell variables and expansions
 [3-paths](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/3-paths)
 * A script that counts the number of directories in the **PATH**.
 ---
-[4--global_variables](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/4-global_variables)
+[4-global_variables](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/4-global_variables)
 * A script that lists environment variables.
 ---
 [5-local_variablea](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/5-local_variables)
