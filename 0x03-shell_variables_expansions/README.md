@@ -36,6 +36,7 @@ A directory that contains scripts about Shell variables and expansions
 [9-divide_and_rule](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/9-divide_and_rule)
 * A script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
   - `POWER` and `DIVIDE` are environment variables
+---
 [10-love_exponent_breath](https://github.com/SKENGMANE/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/10-love_exponent_breath)
 * A script that displays the result of `BREATH` to the power `LOVE`
   - `BREATH` and `LOVE` are environment variables
